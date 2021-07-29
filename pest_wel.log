@@ -1,0 +1,7 @@
+time,elapsed_seconds,message
+15:37:48,3.7e-05,PEST++ performance logger started
+15:37:48,0.0022791,starting to process control file
+15:37:48,0.0007015,finished processing control file
+15:37:48,0.0080556,starting basic model IO error checking
+15:37:48,0.0045005,finished basic model IO error checking
+15:37:48,0.002704,loading parcov
